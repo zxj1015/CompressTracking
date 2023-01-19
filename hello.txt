@@ -1,1 +1,1 @@
-This software is used for tracking, master
+stop_program=False;amount_per_transaction=10000;transaction_count=20;high_threshold=0.03;low_threshold=-0.02;set_time=2023-01-20-01:57:40
