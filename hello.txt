@@ -1,2 +1,9 @@
-stop=False;sleep_ts=0;high_t=0.03;low_t=-0.03;hold1=0;count=20;amount=10000;
+stop=False
+sleep_ts=0
+high_t=0.03
+low_t=-0.03
+hold1=0
+count=20
+amount=10000
 set_time=2023-01-20-01:57:40
+
