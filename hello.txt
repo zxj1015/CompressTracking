@@ -1,1 +1,1 @@
-stop_program=False;amount_per_transaction=10000;transaction_count=20;high_threshold=0.03;low_threshold=-0.02;hodl1=0;set_time=2023-01-20-01:57:40
+stop=False;sleep_ts=0;high_t=0.03;low_t=-0.03;hodl1=0;count=20;amount=10000;set_time=2023-01-20-01:57:40
